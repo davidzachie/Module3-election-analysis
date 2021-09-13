@@ -26,7 +26,9 @@
 
 ## **Election Audit Summary**
 
-#### This Python script can be modified and used to find the number of votes and votes percentages for other categories 
+#### This Python scripts can be modified and used to find the number of votes and votes percentages for other segmentations such as demographic and geographic  (provided additional voters' information are added to the source data file) and provide more detail analysis and insights about the characteristics of the voters and voting outcomes.
+
+#### The scripts can also be used on larger elections such as state and even mid-term and presidential elections.
 
 
 
