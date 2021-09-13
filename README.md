@@ -22,6 +22,8 @@
 
 ### **Election Results saved to text file that shows the election outcomes:**
 
+#### [Election Results Text File](https://github.com/davidzachie/Module3-election-analysis/blob/main/analysis/election_results.txt)
+
 ![Election_Results](Resources/Election_txt_ss.png)
 
 ## **Election Audit Summary**
